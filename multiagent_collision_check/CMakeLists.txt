@@ -28,7 +28,7 @@ add_library(multiagent_collision_check_lib src/multiagent_collision_checker.cpp)
 include_directories(
   include
   ${catkin_INCLUDE_DIRS}
-  ${Eigen_INCLUDE_DIRS}
+  ${Eigen3_INCLUDE_DIRS}
 )
 
 target_link_libraries(multiagent_collision_check_lib
