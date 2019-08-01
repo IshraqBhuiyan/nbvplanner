@@ -1,6 +1,6 @@
 [submodule "rotors"]
 	path = rotors
-	url = https://github.com/ethz-asl/rotors
+	url = https://github.com/IshraqBhuiyan/rotors_simulator
 [submodule "volumetric_mapping"]
 	path = volumetric_mapping
 	url = https://github.com/ethz-asl/volumetric_mapping
